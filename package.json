@@ -1,0 +1,33 @@
+{
+  "name": "value-pipe",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Pipe a value through a list of sync transform functions",
+  "license": "MIT",
+  "repository": "bendrucker/value-pipe",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "functional",
+    "pipe",
+    "pipeline",
+    "series",
+    "waterfall"
+  ],
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "to-array": "~0.1.4"
+  }
+}
