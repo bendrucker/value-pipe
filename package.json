@@ -26,8 +26,5 @@
   },
   "files": [
     "index.js"
-  ],
-  "dependencies": {
-    "to-array": "~0.1.4"
-  }
+  ]
 }
