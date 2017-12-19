@@ -1,7 +1,7 @@
 {
   "name": "value-pipe",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pipe a value through a list of sync transform functions",
   "license": "MIT",
   "repository": "bendrucker/value-pipe",
