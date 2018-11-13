@@ -1,4 +1,4 @@
-# value-pipe [![Build Status](https://travis-ci.org/bendrucker/value-pipe.svg?branch=master)](https://travis-ci.org/bendrucker/value-pipe)
+# value-pipe [![Build Status](https://travis-ci.org/bendrucker/value-pipe.svg?branch=master)](https://travis-ci.org/bendrucker/value-pipe) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/value-pipe.svg)](https://greenkeeper.io/)
 
 > Pipe a value through a list of synchronous transform functions
 
